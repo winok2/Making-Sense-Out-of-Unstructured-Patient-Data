@@ -36,6 +36,8 @@ The data source is a text file containing unstructured medical records. The chos
 ## Status
 The project is currently in the complete.
 
+## Regex and Python Codes begin from here
+
 #### Importing regex as re
 import re
 
